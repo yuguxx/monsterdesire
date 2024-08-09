@@ -15,7 +15,7 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '欲望怪兽处理厂',
+  HEO_HERO_TITLE_1: '',
   HEO_HERO_TITLE_2: '',
   HEO_HERO_TITLE_3: 'monster desire',
   HEO_HERO_TITLE_4: '图片收集癖',
@@ -142,6 +142,6 @@ const CONFIG = {
   HEO_WIDGET_TO_TOP: true,
   HEO_WIDGET_TO_COMMENT: null, // 跳到评论区
   HEO_WIDGET_DARK_MODE: true, // 夜间模式
-  HEO_WIDGET_TOC: true // 移动端悬浮目录
+  HEO_WIDGET_TOC: null // 移动端悬浮目录
 }
 export default CONFIG
