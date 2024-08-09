@@ -15,7 +15,7 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '',
+  HEO_HERO_TITLE_1: '欲望怪兽收集地',
   HEO_HERO_TITLE_2: '',
   HEO_HERO_TITLE_3: 'monster desire',
   HEO_HERO_TITLE_4: '图片收集癖',
