@@ -48,6 +48,10 @@ const Style = () => {
       * {
         box-sizing: border-box;
       }
+      
+      .navbar-item
+    margin: 4px !important
+    padding: 8.5px !important
 
       // 标签滚动动画
       .tags-group-wrapper {
